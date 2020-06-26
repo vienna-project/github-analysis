@@ -3,6 +3,7 @@
 Have you ever worked on data processing billions of records? Unless you're working as a data engineer, you won't have the experience of processing billions of records. [**The github activity dataset**](https://www.gharchive.org/), which contains records of developers' activities on **GitHub** sing 2012, contains billions of log records.
 
 <img src="https://imgur.com/WzgzWuu.png" width="800">
+
 To handle this, we will use [Google BigQuery](https://cloud.google.com/bigquery), powerful and effective data warehouse tool. Even without spending a lot of money, you can experience the experience of analyzing Github records over the years through **Google BigQuery**. 
 
 
