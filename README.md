@@ -27,11 +27,11 @@ If you wanna run the scripts in the repository, Download the credential json fil
 
 ### Reading List
 
-#### 1.  Read Data From Google Bigquery in jupyter
+#### 1.  [Read Data From Google Bigquery in jupyter](https://github.com/craftsangjae/analysis-github-activity-using-Big-Query/blob/master/scripts/3%20ways%20to%20read%20data%20from%20google%20bigquery%20in%20jupyter.ipynb)
 
 ###### It is so easy to handle Google BigQuery in the Jupyter. Let's learn 3 ways to handle Google BigQuery in Jupyter.
 
-#### 2. Understand the Schema of github archive
+#### 2. [Understand the Schema of github archive](https://github.com/craftsangjae/analysis-github-activity-using-Big-Query/blob/master/scripts/Understanding%20the%20schema%20of%20github%20archive.ipynb)
 
 ###### Before we start analyzing the data, let's see how the github archive is structured.
 
