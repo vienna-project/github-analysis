@@ -35,7 +35,7 @@ If you wanna run the scripts in the repository, Download the credential json fil
 
 ###### Before we start analyzing the data, let's see how the github archive is structured.
 
-#### 3. Analze the the GitHub Action
+#### 3. [Analyze the the GitHub Action](https://github.com/craftsangjae/analysis-github-activity-using-Big-Query/blob/master/scripts/analyzing%20the%20github%20action.ipynb)
 
 ###### Grasp the overall aspect of the github action log
 
