@@ -35,6 +35,14 @@ If you wanna run the scripts in the repository, Download the credential json fil
 
 ###### Before we start analyzing the data, let's see how the github archive is structured.
 
+#### 3. Analze the the GitHub Action
+
+###### Grasp the overall aspect of the github action log
+
+
+
+
+
 
 
 ----
