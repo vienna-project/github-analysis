@@ -23,6 +23,10 @@ pip install --upgrade pyarrow
 
 If you wanna run the scripts in the repository, Download the credential json file according to [the link](https://cloud.google.com/docs/authentication/getting-started) and save it in the `credentials/` folder
 
+##### 3. Get Github Credentials
+
+Read [this article](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token). You need to create a personal access token to use Github API
+
 
 
 ### Reading List
@@ -39,7 +43,9 @@ If you wanna run the scripts in the repository, Download the credential json fil
 
 ###### Grasp the overall aspect of the github action log
 
+#### 4. [Utilize Github API]()
 
+###### Understand how to obtain the data ghrough the Github API
 
 
 
