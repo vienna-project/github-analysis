@@ -2,7 +2,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,macos,pycharm+all,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,macos,pycharm+all,python
 
-credentials/*.json
+credentials/
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
